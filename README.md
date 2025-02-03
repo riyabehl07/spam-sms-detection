@@ -81,5 +81,5 @@ This project is licensed under the MIT License.
 ## Author
 **Riya Behl**
 
-Feel free to contribute by raising issues or submitting pull requests! 🚀
+Feel free to contribute by raising issues or submitting pull requests! 
 
